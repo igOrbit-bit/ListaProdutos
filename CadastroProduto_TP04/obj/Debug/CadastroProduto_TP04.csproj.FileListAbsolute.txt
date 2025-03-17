@@ -1,0 +1,10 @@
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\bin\Debug\CadastroProduto_TP04.exe.config
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\bin\Debug\CadastroProduto_TP04.exe
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\bin\Debug\CadastroProduto_TP04.pdb
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\obj\Debug\CadastroProduto_TP04.csproj.AssemblyReference.cache
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\obj\Debug\CadastroProduto_TP04.Form1.resources
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\obj\Debug\CadastroProduto_TP04.Properties.Resources.resources
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\obj\Debug\CadastroProduto_TP04.csproj.GenerateResource.cache
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\obj\Debug\CadastroProduto_TP04.csproj.CoreCompileInputs.cache
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\obj\Debug\CadastroProduto_TP04.exe
+D:\FACULDADE\3 SEMESTRE\APP_DESKTOP\CadastroProduto_TP04\CadastroProduto_TP04\obj\Debug\CadastroProduto_TP04.pdb
